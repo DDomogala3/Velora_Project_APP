@@ -1,0 +1,8 @@
+HelloWorldApp/
+├── HelloWorldApp.xcodeproj             # Xcode project file
+├── AppDelegate.swift                   # Application delegate
+├── SceneDelegate.swift                 # Scene delegate (for multi-window support)
+├── ViewController.swift                # Main view controller (UI logic)
+├── Info.plist                          # App configuration
+└── Assets.xcassets/                    # Image and color assets
+    └── AppIcon.appiconset/             # App icon images
